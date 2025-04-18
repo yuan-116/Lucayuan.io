@@ -17,7 +17,7 @@
 - PL300 - Microsoft Certified: Power BI Data Analyst Associate
 
 ### Projects
--Project 1
+-Project 1 Data Warehouse
 -Project 2
 -Project 3
 -Project 4
