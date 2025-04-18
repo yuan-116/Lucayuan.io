@@ -9,7 +9,7 @@
 - University of Calgary |	Calgary, Canada
   Professional Management & Professional Certificate for Emerging Leaders	Sep 2021- Jul 2022
 
-- Soochow University	Taipei, Taiwan                                                                                                 
+- Soochow University	Taipei, Taiwan
   Bachelor of Business Administration 	Sep 2016 - Jun 2020
 
 ### Certificate
