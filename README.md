@@ -1,7 +1,8 @@
 # Business Intelligence Analyst
 
 ### Education
-Syracuse University	Syracuse, NY
+Syracuse University	| Syracuse, NY
+
 Master of Science in Business Analytics | GPA: 3.73/4.00 	Sep 2023 – May 2025
 -	Syracuse University MSBA Scholarship ($36,000 total; $12,000 per semester)
 
