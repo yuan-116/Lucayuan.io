@@ -26,7 +26,7 @@
 📂[GitHub Repo]( https://github.com/yuan-116/sql-data-warehouse-project/tree/main): Full project code and documentation available.
 
 
--Project 2
+## - Power BI projects Collections
 
 📂[GitHub Repo](https://github.com/yuan-116/power_bi_projects/tree/main): Full project code and documentation available.
 -Project 3
