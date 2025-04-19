@@ -27,6 +27,8 @@
 
 
 -Project 2
+
+📂[GitHub Repo](https://github.com/yuan-116/power_bi_projects/tree/main): Full project code and documentation available.
 -Project 3
 -Project 4
 
