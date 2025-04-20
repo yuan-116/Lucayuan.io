@@ -72,5 +72,5 @@ Word Count (LIWC), leading to a best Naïve Bayes accuracy of 57.6%.
 
 • Applied k-fold cross-validation to ensure model reliability and evaluated performance using F1-score.
 
-## Project 2: 
+## Project 2: Machine Learning for Business
 
