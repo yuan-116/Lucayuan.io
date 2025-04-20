@@ -16,7 +16,7 @@
 
 - PL300 - Microsoft Certified: Power BI Data Analyst Associate
 
-### Projects
+### Projects Experience
 ## -Project 1 Data Warehouse | SQL 
 - Designed and implemented a modern Medallion Architecture (Bronze, Silver, Gold) using SQL Server, enabling a scalable and modular data pipeline.
 - Built end-to-end ETL pipelines to extract raw CSV data, clean, transform, and load into a star schema for analytics.
@@ -56,3 +56,21 @@ reduction in management time while effectively mitigating inventory shortages
 
 • Constructed an intuitive Microsoft PowerApps application tailored for managers, including branch information, inventory
 information, automated filling of order request forms
+
+### Other Projects
+
+## Project 1: Sentiment Analysis on Movie Reviews | Python
+
+• Pre-processed text data with tokenization, lowercasing, stop-word removal, and lemmatization improve consistency.
+
+• Developed a Naïve Bayes Classifier with Bag-of-Words features, achieving a baseline accuracy of 56.73%.
+
+• Engineered advanced features, including bi-grams, POS tagging, SubjectivityLexicon (SL), and Linguistic Inquiry and
+Word Count (LIWC), leading to a best Naïve Bayes accuracy of 57.6%.
+
+• Integrated a Random Forest Classifier, improving accuracy to 63.07%
+
+• Applied k-fold cross-validation to ensure model reliability and evaluated performance using F1-score.
+
+## Project 2: 
+
