@@ -29,6 +29,30 @@
 ## - Power BI projects Collections
 
 📂[GitHub Repo](https://github.com/yuan-116/power_bi_projects/tree/main): Full project code and documentation available.
--Project 3
--Project 4
 
+## -Project 3 Data Warehouse - USDA Food - Uncovering Nutritional Trends in US
+
+• Performed data profiling and cleaned database datasets in SQL Server.
+
+• Designed and implemented Star Schema, applying Bus Matrix to align with dimensional modeling.
+
+• Built ETL pipelines to extract, transform, and load structured data into the warehouse based on business processes.
+
+• Developed a data warehouse to analyze branded food nutrition, uncovering trends in nutrient density, brand-level nutrient
+variations, and key nutrient composition insights.
+
+• Designed and built interactive Power BI dashboards to visualize key insights from the analysis.
+
+
+## -Project 4 Database Design for local restaurant chain
+
+
+• Designed an inventory management system by building a data model with interlinked tables in Azure Database Studio
+and imported simulated data to ensure efficient data storage, retrieval, and manipulation
+
+• Developed SQL queries, triggers, and stored procedures to automate update data after placing an order, generate reports of
+the cost of order and ingredient inventory, and trigger re-order alerts for ingredients. Estimate to achieve a minimum 20%
+reduction in management time while effectively mitigating inventory shortages
+
+• Constructed an intuitive Microsoft PowerApps application tailored for managers, including branch information, inventory
+information, automated filling of order request forms
