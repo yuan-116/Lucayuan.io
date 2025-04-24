@@ -38,19 +38,21 @@
 
 📂[GitHub Repo](https://github.com/yuan-116/power_bi_projects/tree/main): Full project code and documentation available.
 
-## -Project 3 Data Warehouse - USDA Food - Uncovering Nutritional Trends in US
+## -Project 3 USDA Nutritional Data Warehouse – Uncovering Trends in U.S. Food
 
-• Performed data profiling and cleaned database datasets in SQL Server.
+- Migrated and cleaned over 100,000 food records from Microsoft Access to SQL Server using SSMA, ensuring data quality and consistency.
 
-• Designed and implemented Star Schema, applying Bus Matrix to align with dimensional modeling.
+- Constructed a Bus Matrix to define analytical business processes and shared dimensions, then designed a star schema to support efficient querying.
 
-• Built ETL pipelines to extract, transform, and load structured data into the warehouse based on business processes.
+- Developed ETL pipelines in SQL Server to automate the extraction, transformation, and loading of structured nutrient data.
 
-• Developed a data warehouse to analyze branded food nutrition, uncovering trends in nutrient density, brand-level nutrient
-variations, and key nutrient composition insights.
+- Conducted analysis on nutrient trends across food types (branded, foundation, survey), identified top nutrient-contributing brands, and evaluated changes over time.
 
-• Designed and built interactive Power BI dashboards to visualize key insights from the analysis.
+- Built interactive Power BI dashboards to visualize nutrient density, brand impact, and top nutrient distributions for data-driven insights.
+  
+📊[Dataset:(USDA FoodData Central)](https://fdc.nal.usda.gov/)
 
+📂[Presentation](https://prezi.com/view/beC6TVO9VZLn6b1h2xRY/)
 
 ## -Project 4 Database Design for local restaurant chain
 
@@ -64,6 +66,7 @@ reduction in management time while effectively mitigating inventory shortages
 
 • Constructed an intuitive Microsoft PowerApps application tailored for managers, including branch information, inventory
 information, automated filling of order request forms
+
 
 ### Other Projects
 
