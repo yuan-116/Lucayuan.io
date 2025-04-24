@@ -67,7 +67,11 @@ information, automated filling of order request forms
 
 ### Other Projects
 
-## Project 1: Sentiment Analysis on Movie Reviews | Python
+## Project 1: Machine Learning for Business | R
+📂[GitHub Repo](https://github.com/yuan-116/MachineLearning_for_Business/tree/main): Full project code and documentation available.
+
+
+## Project 2: Sentiment Analysis on Movie Reviews | Python
 
 • Pre-processed text data with tokenization, lowercasing, stop-word removal, and lemmatization improve consistency.
 
@@ -79,7 +83,4 @@ Word Count (LIWC), leading to a best Naïve Bayes accuracy of 57.6%.
 • Integrated a Random Forest Classifier, improving accuracy to 63.07%
 
 • Applied k-fold cross-validation to ensure model reliability and evaluated performance using F1-score.
-
-## Project 2: Machine Learning for Business
-📂[GitHub Repo](https://github.com/yuan-116/MachineLearning_for_Business/tree/main): Full project code and documentation available.
 
