@@ -34,11 +34,23 @@
 📂[GitHub Repo]( https://github.com/yuan-116/sql-data-warehouse-project/tree/main): Full project code and documentation available.
 
 
-## - Power BI projects Collections
+## - Power BI Dashboard Projects
+
+Emergency Room Visit Report – Visualized wait time disparities across patient demographics, highlighting peak periods and underserved groups using DAX and slicers.
+
+Toys Sales Dashboard – Tracked monthly regional sales trends to uncover seasonal revenue patterns and high-performing product lines.
+
+Plant Co. Sales Performance – Monitored revenue, YoY growth, and profit margin using drill-through KPIs and custom time intelligence.
+
+Data Professional Survey – Analyzed survey data from 630 professionals to surface salary gaps, tool preferences, and experience challenges.
+
+Hotel Booking Dashboard – Simulated real-time cancellation analysis and booking trend tracking to assist operational decisions.
+
+Forbes Billionaires Report – Built interactive visuals to explore global billionaire demographics and industry concentration.
 
 📂[GitHub Repo](https://github.com/yuan-116/power_bi_projects/tree/main): Full project code and documentation available.
 
-## -Project 3 USDA Nutritional Data Warehouse – Uncovering Trends in U.S. Food
+## -Project 2 USDA Nutritional Data Warehouse – Uncovering Trends in U.S. Food
 
 - Migrated and cleaned over 100,000 food records from Microsoft Access to SQL Server using SSMA, ensuring data quality and consistency.
 
@@ -54,7 +66,7 @@
 
 📂[Presentation](https://prezi.com/view/beC6TVO9VZLn6b1h2xRY/)
 
-## -Project 4 Database Design for local restaurant chain
+## -Project 3 Database Design for local restaurant chain
 
 
 • Designed an inventory management system by building a data model with interlinked tables in Azure Database Studio
