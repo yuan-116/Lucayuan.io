@@ -67,12 +67,20 @@ reduction in management time while effectively mitigating inventory shortages
 • Constructed an intuitive Microsoft PowerApps application tailored for managers, including branch information, inventory
 information, automated filling of order request forms
 
-
+---
 ### Other Projects
 
 ## Project 1: Machine Learning for Business | R
-📂[GitHub Repo](https://github.com/yuan-116/MachineLearning_for_Business/tree/main): Full project code and documentation available.
 
+- Performed exploratory data analysis (EDA) including correlation analysis, descriptive statistics, scatter plot visualizations, and multicollinearity checks (VIF) to investigate feature relationships and trends across business and healthcare datasets.
+
+- Cleaned and prepared structured datasets through normalization, dummy encoding, categorical target transformation, and applied dimensionality reduction techniques (PCA, Factor Analysis, Correspondence Analysis, FAMD) to simplify features prior to modeling.
+
+- Built and evaluated machine learning models—including Neural Networks, XGBoost, Random Forest, SVM, Logistic Regression, KNN, and Naïve Bayes—for regression and classification tasks.
+
+- Applied models to real-world problems in energy efficiency forecasting, housing price estimation, product quality scoring, and disease risk prediction, aligning machine learning with business insights.
+
+📂[GitHub Repo](https://github.com/yuan-116/MachineLearning_for_Business/tree/main): Full project code and documentation available.
 
 ## Project 2: Sentiment Analysis on Movie Reviews | Python
 
