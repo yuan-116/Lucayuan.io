@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/mememe.jpg" width="160" style="border-radius: 50%;">
+</p>
+
+
 # Business Intelligence Analyst
 
 #### Technical Skills: SQL, R, Python, Power BI, Excel
