@@ -1,5 +1,7 @@
 # Business Intelligence Analyst
 
+<img width="350" alt="image" src="https://github.com/yuan-116/Lucayuan.io/blob/main/images/profile.jpg" />
+
 #### Technical Skills: SQL, R, Python, Power BI, Excel
 
 ###  Education
