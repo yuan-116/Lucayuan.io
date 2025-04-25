@@ -1,6 +1,15 @@
-<p align="center">
-  <img src="assets/mememe.jpg" width="160" style="border-radius: 50%;">
-</p>
+<table>
+  <tr>
+    <td width="120">
+      <img src="assets/mememe.jpg" width="100" style="border-radius: 50%;">
+    </td>
+    <td>
+      <h1>ChihHao Luca Yuan</h1>
+      <h3>Business Intelligence Analyst</h3>
+      <p><strong>Technical Skills:</strong> SQL, R, Python, Power BI, Excel</p>
+    </td>
+  </tr>
+</table>
 
 
 # Business Intelligence Analyst
