@@ -36,19 +36,19 @@
 
 ## - Power BI Dashboard Projects
 
-Emergency Room Visit Report – Visualized wait time disparities across patient demographics, highlighting peak periods and underserved groups using DAX and slicers.
+- Emergency Room Visit Report – Visualized wait time disparities across patient demographics, highlighting peak periods and underserved groups using DAX and slicers.
 
-Toys Sales Dashboard – Tracked monthly regional sales trends to uncover seasonal revenue patterns and high-performing product lines.
+- Toys Sales Dashboard – Tracked monthly regional sales trends to uncover seasonal revenue patterns and high-performing product lines.
 
-Plant Co. Sales Performance – Monitored revenue, YoY growth, and profit margin using drill-through KPIs and custom time intelligence.
+- Plant Co. Sales Performance – Monitored revenue, YoY growth, and profit margin using drill-through KPIs and custom time intelligence.
 
-Data Professional Survey – Analyzed survey data from 630 professionals to surface salary gaps, tool preferences, and experience challenges.
+- Data Professional Survey – Analyzed survey data from 630 professionals to surface salary gaps, tool preferences, and experience challenges.
 
-Hotel Booking Dashboard – Simulated real-time cancellation analysis and booking trend tracking to assist operational decisions.
+- Hotel Booking Dashboard – Simulated real-time cancellation analysis and booking trend tracking to assist operational decisions.
 
-Forbes Billionaires Report – Built interactive visuals to explore global billionaire demographics and industry concentration.
+- Forbes Billionaires Report – Built interactive visuals to explore global billionaire demographics and industry concentration.
 
-📂[GitHub Repo](https://github.com/yuan-116/power_bi_projects/tree/main): Full project code and documentation available.
+📂[GitHub Repo](https://github.com/yuan-116/power_bi_projects/tree/main): Includes All 6 business dashboards with full Power BI files and documentation.
 
 ## -Project 2 USDA Nutritional Data Warehouse – Uncovering Trends in U.S. Food
 
@@ -92,7 +92,7 @@ information, automated filling of order request forms
 
 - Applied models to real-world problems in energy efficiency forecasting, housing price estimation, product quality scoring, and disease risk prediction, aligning machine learning with business insights.
 
-📂[GitHub Repo](https://github.com/yuan-116/MachineLearning_for_Business/tree/main): Full project code and documentation available.
+📂[GitHub Repo](https://github.com/yuan-116/MachineLearning_for_Business/tree/main): Includes 5 applied machine learning projects with full code and documentation.
 
 ## Project 2: Sentiment Analysis on Movie Reviews | Python
 
@@ -102,6 +102,8 @@ information, automated filling of order request forms
 
 • Engineered advanced features, including bi-grams, POS tagging, SubjectivityLexicon (SL), and Linguistic Inquiry and
 Word Count (LIWC), leading to a best Naïve Bayes accuracy of 57.6%.
+
+📂[GitHub Repo](https://github.com/yuan-116/NLP_Sentiment_Classification_with_Movie_Reviews): Full project code and documentation available.
 
 • Integrated a Random Forest Classifier, improving accuracy to 63.07%
 
