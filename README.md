@@ -64,9 +64,9 @@ Forbes Billionaires Report – Built interactive visuals to explore global billi
   
 📊[Dataset:(USDA FoodData Central)](https://fdc.nal.usda.gov/)
 
-📂[Presentation](https://prezi.com/view/beC6TVO9VZLn6b1h2xRY/)
+📂[Prezi Presentation](https://prezi.com/view/beC6TVO9VZLn6b1h2xRY/)
 
-## -Project 3 Database Design for local restaurant chain
+## -Project 3 Database Design for the local restaurant chain
 
 
 • Designed an inventory management system by building a data model with interlinked tables in Azure Database Studio
