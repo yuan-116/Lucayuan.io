@@ -96,16 +96,11 @@ information, automated filling of order request forms
 
 ## Project 2: Sentiment Analysis on Movie Reviews | Python
 
-• Pre-processed text data with tokenization, lowercasing, stop-word removal, and lemmatization improve consistency.
+- Built and compared multiple NLP pipelines using a labeled Rotten Tomatoes dataset to classify sentiment on short movie review phrases.  
+- Engineered features including lemmatized Bag-of-Words, chi-squared bigrams, Subjectivity Lexicon, POS-tagged features, and LIWC-based sentiment scores.  
+- Achieved best performance using a Random Forest classifier with 63.07% accuracy, outperforming baseline Naive Bayes models.  
+- Evaluated models using k-fold cross-validation and F1-score, identifying challenges with feature compatibility and preprocessing trade-offs.
 
-• Developed a Naïve Bayes Classifier with Bag-of-Words features, achieving a baseline accuracy of 56.73%.
 
-• Engineered advanced features, including bi-grams, POS tagging, SubjectivityLexicon (SL), and Linguistic Inquiry and
-Word Count (LIWC), leading to a best Naïve Bayes accuracy of 57.6%.
 
 📂[GitHub Repo](https://github.com/yuan-116/NLP_Sentiment_Classification_with_Movie_Reviews): Full project code and documentation available.
-
-• Integrated a Random Forest Classifier, improving accuracy to 63.07%
-
-• Applied k-fold cross-validation to ensure model reliability and evaluated performance using F1-score.
-
