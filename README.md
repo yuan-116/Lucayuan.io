@@ -24,7 +24,7 @@
 
 ---
 
-## 🏗️ Projects Experience
+## Projects Experience
 
 ### 📂 Project 1: Sales Data Warehouse Development and Data Analysis | SQL
 
