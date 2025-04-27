@@ -75,7 +75,7 @@
 
 ## 📚 Other Projects
 
-### 📂 Project 1: Machine Learning for Business | R
+### 📂 Projects: Machine Learning for Business | R
 
 - Performed exploratory data analysis (EDA) including correlation analysis, descriptive statistics, scatter plot visualizations, and multicollinearity checks (VIF) to investigate feature relationships and trends across business and healthcare datasets.
 - Cleaned and prepared structured datasets through normalization, dummy encoding, categorical target transformation, and applied dimensionality reduction techniques (PCA, Factor Analysis, Correspondence Analysis, FAMD) to simplify features prior to modeling.
@@ -86,7 +86,7 @@
 
 ---
 
-### 📂 Project 2: Sentiment Analysis on Movie Reviews | Python
+### 📂 Project: Sentiment Analysis on Movie Reviews | Python
 
 - Built and compared multiple NLP pipelines using a labeled Rotten Tomatoes dataset to classify sentiment on short movie review phrases.
 - Engineered features including lemmatized Bag-of-Words, chi-squared bigrams, Subjectivity Lexicon, POS-tagged features, and LIWC-based sentiment scores.
