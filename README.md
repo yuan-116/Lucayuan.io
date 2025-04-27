@@ -25,13 +25,15 @@
 - PL300 - Microsoft Certified: Power BI Data Analyst Associate
 
 ### Projects Experience
-## -Project 1 Data Warehouse | SQL 
+## -Project 1 Sales Data Warehouse Development and Data Analysis | SQL
 - Designed and implemented a modern Medallion Architecture (Bronze, Silver, Gold) using SQL Server, enabling a scalable and modular data pipeline.
 - Built end-to-end ETL pipelines to extract raw CSV data, clean, transform, and load into a star schema for analytics.
-- Modeled dimension and fact tables for business-ready datasets optimized for BI reporting and dashboarding.
-- Developed SQL-based analytical reports to derive insights from cleansed and structured data.
+- Modeled dimension and fact tables for business-ready datasets.
+- Developed SQL-based EDA scripts and analytical reports to generate KPIs (e.g., total sales, product performance) and strategic insights.
 
-📂[GitHub Repo]( https://github.com/yuan-116/sql-data-warehouse-project/tree/main): Full project code and documentation available.
+📂[GitHub Repo_DataWarehouse](https://github.com/yuan-116/sql-data-warehouse-project/tree/main): Full project code and documentation available.
+
+📂[GitHub Repo_DataAnalysis](https://github.com/yuan-116/sql-Data_Analytics_Project/tree/main): Full project code and details.
 
 
 ## - Power BI Dashboard Projects
