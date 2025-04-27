@@ -71,6 +71,21 @@
 - Estimated to achieve a minimum 20% reduction in management time while effectively mitigating inventory shortages.
 - Constructed an intuitive Microsoft PowerApps application tailored for managers, including branch information, inventory information, and automated order request forms.
 
+### 📂 Project 4: Credit Card Transactional Data Analysis | Python
+
+This project was a collaborative effort focused on analyzing credit card transaction data, fraud patterns, and client behaviors across multiple integrated datasets.  
+The following highlights my individual contributions, primarily focusing on data cleaning, client-level feature engineering, correlation analysis, and strategic business insight generation.
+
+- Built a complete data analysis pipeline by merging transaction, fraud label, and card datasets into a unified dataframe for exploratory analysis and Cleaned and standardized the data.
+- Conducted correlation analysis between average credit limit and total spending, identifying a moderate positive correlation (r = 0.4077).
+- Detected and investigated an outlier client with a low credit limit but exceptionally high total spending, leading to deeper demographic and behavioral analysis.
+- Visualized annual spending trends and card usage preferences using Holoviews and Bokeh, uncovering seasonal spending patterns and cross-sell opportunities.
+- Generated actionable business insights, proposing targeted promotional strategies to enhance client loyalty and optimize credit line management.
+
+📂 [GitHub Repo - Credit Card Analysis](https://github.com/yuan-116/Python_Data_Analysis_Project/tree/main)
+
+
+
 ---
 
 ## 📚 Other Projects
