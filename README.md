@@ -51,7 +51,7 @@
 
 ---
 
-### 📂 Project 2: USDA Nutritional Data Warehouse – Uncovering Trends in U.S. Food
+### 📂 Project 2: USDA Nutritional Data Warehouse – Uncovering Trends in U.S. Food | SQL, Power BI
 
 - Migrated and cleaned over 100,000 food records from Microsoft Access to SQL Server using SSMA, ensuring data quality and consistency.
 - Constructed a Bus Matrix to define analytical business processes and shared dimensions, then designed a star schema to support efficient querying.
@@ -64,17 +64,24 @@
 
 ---
 
-### 📂 Project 3: Database Design for a Local Restaurant Chain
+### 📂 Project 3: Database Design for a Local Restaurant Chain | SQL, Azure Studio
 
 - Designed an inventory management system by building a data model with interlinked tables in Azure Database Studio and imported simulated data to ensure efficient data storage, retrieval, and manipulation.
 - Developed SQL queries, triggers, and stored procedures to automate data updates after placing orders, generate reports on order costs and ingredient inventory, and trigger re-order alerts.
 - Estimated to achieve a minimum 20% reduction in management time while effectively mitigating inventory shortages.
 - Constructed an intuitive Microsoft PowerApps application tailored for managers, including branch information, inventory information, and automated order request forms.
 
-### 📂 Project 4: Credit Card Transactional Data Analysis | Python
+### 📂 Projects: Machine Learning for Business | R
 
-This project was a collaborative effort focused on analyzing credit card transaction data, fraud patterns, and client behaviors across multiple integrated datasets.  
-The following highlights my individual contributions, primarily focusing on data cleaning, client-level feature engineering, correlation analysis, and strategic business insight generation.
+- Performed exploratory data analysis (EDA) including correlation analysis, descriptive statistics, scatter plot visualizations, and multicollinearity checks (VIF) to investigate feature relationships and trends across business and healthcare datasets.
+- Cleaned and prepared structured datasets through normalization, dummy encoding, categorical target transformation, and applied dimensionality reduction techniques (PCA, Factor Analysis, Correspondence Analysis, FAMD) to simplify features prior to modeling.
+- Built and evaluated machine learning models—including Neural Networks, XGBoost, Random Forest, SVM, Logistic Regression, KNN, and Naïve Bayes—for regression and classification tasks.
+- Applied models to real-world problems in energy efficiency forecasting, housing price estimation, product quality scoring, and disease risk prediction, aligning machine learning with business insights.
+
+📂 [GitHub Repo](https://github.com/yuan-116/MachineLearning_for_Business/tree/main)
+
+
+### 📂 Project 4: Credit Card Transactional Data Analysis | Python
 
 - Built a complete data analysis pipeline by merging transaction, fraud label, and card datasets into a unified dataframe for exploratory analysis and Cleaned and standardized the data.
 - Conducted correlation analysis between average credit limit and total spending, identifying a moderate positive correlation (r = 0.4077).
@@ -89,15 +96,6 @@ The following highlights my individual contributions, primarily focusing on data
 ---
 
 ## 📚 Other Projects
-
-### 📂 Projects: Machine Learning for Business | R
-
-- Performed exploratory data analysis (EDA) including correlation analysis, descriptive statistics, scatter plot visualizations, and multicollinearity checks (VIF) to investigate feature relationships and trends across business and healthcare datasets.
-- Cleaned and prepared structured datasets through normalization, dummy encoding, categorical target transformation, and applied dimensionality reduction techniques (PCA, Factor Analysis, Correspondence Analysis, FAMD) to simplify features prior to modeling.
-- Built and evaluated machine learning models—including Neural Networks, XGBoost, Random Forest, SVM, Logistic Regression, KNN, and Naïve Bayes—for regression and classification tasks.
-- Applied models to real-world problems in energy efficiency forecasting, housing price estimation, product quality scoring, and disease risk prediction, aligning machine learning with business insights.
-
-📂 [GitHub Repo](https://github.com/yuan-116/MachineLearning_for_Business/tree/main)
 
 ---
 
