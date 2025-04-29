@@ -63,6 +63,7 @@ Built 6 interactive dashboards across healthcare, retail, survey, and hospitalit
 Transformed USDA FoodData Central into a query-optimized star schema and visualized trends via Power BI dashboards.  
 
 **Tools:** SQL Server, SSMA, Power BI 
+
 **Skills:** Data Migration, ETL,Star Schema Modeling,  BI Dashboards  
 🔗 [Presentation](https://prezi.com/view/beC6TVO9VZLn6b1h2xRY/)
 
@@ -73,6 +74,7 @@ Transformed USDA FoodData Central into a query-optimized star schema and visuali
 Applied machine learning (XGBoost, Neural Nets, SVM, etc.) across five projects with distinct datasets in energy efficiency, housing, wine quality, and medical diagnostics.
 
 **Tools:** R (neuralnet, xgboost, caret, rpart)
+
 **Skills:** Data Preprocessing, Feature Engineering, VIF Analysis, Classification, Model Evaluation
 🔗 [GitHub Repo](https://github.com/yuan-116/MachineLearning_for_Business)
 
