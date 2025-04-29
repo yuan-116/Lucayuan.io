@@ -3,7 +3,7 @@
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
 Syracuse University — Syracuse, NY  
 Master of Science in Business Analytics  
@@ -19,7 +19,7 @@ Sep 2016 – Jun 2020
 
 
 
-## 📫 Contact  
+# 📫 Contact  
 Email: chihhaoyuan@gmail.com  
 Location: Syracuse, NY  
 
