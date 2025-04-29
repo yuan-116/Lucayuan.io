@@ -34,6 +34,7 @@ Organized collection of data projects in business intelligence, analytics, and m
 Built a scalable data warehouse from scratch using Medallion Architecture (Bronze, Silver, Gold) in SQL Server to support analytics and reporting. Includes ETL pipelines and star schema modeling. 
 
 **Tools:** SQL Server
+
 **Skills:** ETL, Data Architecture, Star Schema Modeling, Data Cleansing
 🔗 [GitHub Repo](https://github.com/yuan-116/sql-data-warehouse-project)
 
@@ -43,6 +44,7 @@ Built a scalable data warehouse from scratch using Medallion Architecture (Bronz
 Analyzed sales trends and customer/product behaviors using T-SQL, CTEs, and window functions. Delivered reusable BI views for segmentation and KPI tracking.
 
 **Tools:** SQL Server, T-SQL
+
 **Skills:** Exploratory Analysis, KPI Metrics, Customer Segmentation, Reporting Views
 🔗 [GitHub Repo](https://github.com/yuan-116/sql-Data_Analytics_Project)
 
@@ -52,6 +54,7 @@ Analyzed sales trends and customer/product behaviors using T-SQL, CTEs, and wind
 Built 6 interactive dashboards across healthcare, retail, survey, and hospitality domains to support business insights.  
 
 **Tools:** Power BI, DAX 
+
 **Skills:** Data Visualization, KPI Tracking, Dashboard Design  
 🔗 [GitHub Repo](https://github.com/yuan-116/power_bi_projects/tree/main)
 
