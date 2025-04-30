@@ -25,7 +25,7 @@ Location: Syracuse, NY
 
 # Project Portfolio
 
-Organized collection of data projects in business intelligence, analytics, data warehouse, database management, and machine learning. Each project includes code, documentation, and actionable insights. Please check the link attached to every project.
+Structured portfolio of projects in business intelligence, data warehousing, data analytics, and machine learning. Each entry includes code, documentation, and actionable insights. Please take a look at the links for full project details.
 
 
 ---
