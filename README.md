@@ -1,9 +1,9 @@
-# 📊 Business Intelligence Analyst
+#  Business Intelligence Analyst
 🛠 Technical Skills SQL, R, Python, Power BI, Excel
 
 ---
 
-# 🎓 Education
+#  Education
 
 Syracuse University — Syracuse, NY  
 Master of Science in Business Analytics  
@@ -19,13 +19,13 @@ Sep 2016 – Jun 2020
 
 
 
-# 📫 Contact  
+#  Contact  
 Email: chihhaoyuan@gmail.com  
 Location: Syracuse, NY  
 
-# 🧠 Project Portfolio
+# Project Portfolio
 
-Organized collection of data projects in business intelligence, analytics, and machine learning. Each project includes code, documentation, and actionable insights. Please check the link attached to every project.
+Organized collection of data projects in business intelligence, analytics, data warehouse, and machine learning. Each project includes code, documentation, and actionable insights. Please check the link attached to every project.
 
 
 ---
@@ -45,7 +45,7 @@ Analyzed sales trends and customer/product behaviors using CTEs, and window func
 
 **Tools:** SQL Server
 
-**Skills:** Exploratory Analysis, KPI Metrics, Customer Segmentation, Reporting Views
+**Skills:** Exploratory Data Analysis, KPI Metrics, Customer Segmentation, Reporting Views
 🔗 [GitHub Repo](https://github.com/yuan-116/sql-Data_Analytics_Project)
 
 ---
