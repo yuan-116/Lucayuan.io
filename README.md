@@ -48,6 +48,15 @@ Analyzed sales trends and customer/product behaviors using CTEs, and window func
 
 ---
 
+### 📂 USDA Nutritional Data Warehouse | SQL, Power BI  
+Transformed USDA FoodData Central into a query-optimized star schema and visualized trends via Power BI dashboards.  
+
+**Tools:** SQL Server, SSMA, Power BI                                          
+**Skills:** Data Migration, ETL, Star Schema Modeling,  BI Dashboards          
+🔗 [Presentation](https://prezi.com/view/beC6TVO9VZLn6b1h2xRY/)
+
+
+---
 ### 📂 Power BI Dashboard Projects Collection | Power BI  
 Built 6 interactive dashboards in domains including healthcare (ER visits), retail (toys, plant sales), survey (data professionals), hospitality (hotel bookings), and wealth (Forbes billionaires).
 
@@ -55,14 +64,6 @@ Built 6 interactive dashboards in domains including healthcare (ER visits), reta
 **Tools:** Power BI, DAX                                
 **Skills:** Data Visualization, KPI Tracking, Dashboard Design              
 🔗 [GitHub Repo](https://github.com/yuan-116/power_bi_projects/tree/main)
-
----
-### 📂 USDA Nutritional Data Warehouse | SQL, Power BI  
-Transformed USDA FoodData Central into a query-optimized star schema and visualized trends via Power BI dashboards.  
-
-**Tools:** SQL Server, SSMA, Power BI                                          
-**Skills:** Data Migration, ETL,Star Schema Modeling,  BI Dashboards          
-🔗 [Presentation](https://prezi.com/view/beC6TVO9VZLn6b1h2xRY/)
 
 
 ---
