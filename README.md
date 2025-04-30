@@ -50,7 +50,7 @@ Analyzed sales trends and customer/product behaviors using CTEs, and window func
 
 ---
 
-### 📂 Power BI Dashboard Collection | Power BI  
+### 📂 Power BI Dashboard Projects Collection | Power BI  
 Built 6 interactive dashboards across healthcare, retail, survey, and hospitality domains to support business insights.  
 
 **Tools:** Power BI, DAX 
