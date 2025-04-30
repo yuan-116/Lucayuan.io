@@ -41,9 +41,9 @@ Built a scalable data warehouse from scratch using Medallion Architecture (Bronz
 ---
 
 ### 📂 Sales Database Analysis and Reporting | SQL  
-Analyzed sales trends and customer/product behaviors using T-SQL, CTEs, and window functions. Delivered reusable BI views for segmentation and KPI tracking.
+Analyzed sales trends and customer/product behaviors using CTEs, and window functions. Delivered reusable BI views for segmentation and KPI tracking.
 
-**Tools:** SQL Server, T-SQL
+**Tools:** SQL Server
 
 **Skills:** Exploratory Analysis, KPI Metrics, Customer Segmentation, Reporting Views
 🔗 [GitHub Repo](https://github.com/yuan-116/sql-Data_Analytics_Project)
